@@ -4,7 +4,7 @@
 
 <p align="left"> 
    I have 17 years old and since my childhood I'm in love with technologies.
-  Here you can see my works as <strong> Front, Back and Mobile Develolper </strong> 🖥️
+  Here you can see my works as <strong> Front-End Develolper. </strong> 🖥️
 </p>
 
 <p align="left">
@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  💼 Tools: <strong> Docker, Postgres, MySQL and VsCode.</strong>
+  💼 Tools: <strong> Docker, Postgres, MySQL, VsCode.</strong>
 </p>
 
 <p align="left">
