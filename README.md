@@ -3,7 +3,7 @@
 <h3> 👨‍💻 Ruan Vitor </h3>
 
 <p align="left"> 
-   I have 17 years old and since my childhood I'm in love with technologies.
+   I'm 17 years old and since my childhood I'm in love with technologies.
   Here you can see my works as <strong> Front-End Develolper. </strong> 🖥️
 </p>
 
@@ -16,7 +16,7 @@
 </p>
 
 <p align="left">
-  💌 Would you like talk to me ? You can send me a message ⤵️
+  💌 Would you like to talk to me ? You can send me a message ⤵️
 </p>
 
 <p align="left">
