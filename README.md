@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  🔥 Languages: <strong> JS, PHP and SQL. </strong>
+  🔥 Languages: <strong> React Native, Typescript, PHP and SQL. </strong>
 </p>
 
 <p align="left">
