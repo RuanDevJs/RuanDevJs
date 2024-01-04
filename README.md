@@ -10,7 +10,7 @@
 <h3> More about me </h3>
 
 <p align="left">
-  As a developer, I love studying <strong> Design Systems, CSS, Animations, APIs, React.js, React Native, Styled Components, and UI </strong>. <br><br> Additionally, I enjoy learning programming by watching YouTube videos from channels such as Origamid, Lama Dev, Bedimcode, and Reactiive. I also <strong>stay updated on programming topics by reading blog posts, books, and taking courses.</strong>
+  As a developer, I love studying <strong> Design Systems, CSS, Animations, APIs, React.js, React Native, Styled Components, and UI </strong>. <br><br> Additionally, I enjoy learning programming by watching YouTube videos from channels such as Lama Dev, Bedimcode, and Reactiive. I also <strong>stay updated on programming topics by reading blog posts, books, and taking courses.</strong>
 </p>
 
 <h3> Coding </h3>
