@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <h3> <a href="https://www.linkedin.com/in/ruan-vitor-elp%C3%ADdio-61232b1b7/" alt="Linkedin">👨‍💻 Ruan Vitor</h3>
-<h4>Ｆｒｏｎｔ－Ｅｎｄ　＆　Ｍｏｂｉｌｅ　Ｄｅｖｅｌｏｐｅｒ ⚡</h4>
+<h4>Ｆｒｏｎｔ－Ｅｎｄ ＆ Ｍｏｂｉｌｅ　Ｄｅｖｅｌｏｐｅｒ ⚡</h4>
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
