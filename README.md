@@ -24,7 +24,7 @@
    <li>Basic Web Development: <strong>HTML, CSS, JavaScript (ES6) and WordPress </strong></li><br />
    <li>Front End Development: <strong> React, Next.js, Vue.js, Quasar, Cypress and Firebase </strong></li><br />
    <li>Back End Development: <strong>Node.js, PHP7, Ruby on Rails, MySQL, PostgreSQL and MongoDB </strong></li><br />
-   <li>Mobile Development: <strong>React Native, React Native Reanimated, TypeScript.</strong></li>
+   <li>Mobile Development: <strong>React Native, React Native Reanimated, React Native Gesture Handler and TypeScript.</strong></li>
 </ul>
 </p>
 
