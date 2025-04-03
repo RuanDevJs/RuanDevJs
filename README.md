@@ -10,7 +10,7 @@
 
 <h3> About Me </h3>
 <p align="left"> 
-   <strong>My name is Ruan Vitor, and  I'm a 20-year-old  Front-End & Mobile Developer. </strong> 
+   <strong>My name is Ruan Vitor, and  I'm a 21-year-old  Front-End & Mobile Developer. </strong> 
    Since childhood, I've been passionate about exploring how technology can change the world. 🖥️
 </p>
 <p align="left">
